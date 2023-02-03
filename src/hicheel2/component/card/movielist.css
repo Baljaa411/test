@@ -1,0 +1,52 @@
+.movie{
+    width: 1300px;
+    height: 2000px;
+    background-color: aqua;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+
+.moviecontainer{
+    width: 300px;
+    height: 1900px;
+    margin: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.movie-card-container{
+    width: 100%;
+    height: 100%;
+    display: block;
+    gap: 5px;
+
+}
+
+.movie-card1{
+    width: 200px;
+    height: 300px;
+    display: block;
+
+}
+
+.movie-card-img{
+    width: 100%;
+    height: 270px;
+}
+.movie-card-img img{
+    width: 100%;
+    height: 270px;
+
+}
+
+.movie-cad-text{
+    width: 100%;
+    height: 30px;
+}
+
+.movie-cad-text h2{
+    font-size: 12px;
+}

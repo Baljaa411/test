@@ -1,0 +1,15 @@
+button{
+    background-color: black;
+}
+button{
+    background-color: blue;
+}
+.img{
+    width:20px;
+    height:20px;
+
+}
+
+.displayNone{
+    display: none;
+}

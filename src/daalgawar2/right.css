@@ -1,0 +1,9 @@
+.right{
+    width: 33%;
+    height: 680px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    background-color: antiquewhite;
+}

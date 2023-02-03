@@ -1,0 +1,7 @@
+.top{
+    width: 790px;
+    height: 110px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+}

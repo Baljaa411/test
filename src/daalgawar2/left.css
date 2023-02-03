@@ -1,0 +1,8 @@
+.left{
+    width: 67%;
+    height: 680px;
+    background-color: yellowgreen;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

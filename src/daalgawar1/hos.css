@@ -1,0 +1,8 @@
+.hos{
+    width: 350px;
+    height: 100px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

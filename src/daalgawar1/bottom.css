@@ -1,0 +1,8 @@
+.bottom{
+    width: 790px;
+    height: 850px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: bottom;
+}
